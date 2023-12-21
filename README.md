@@ -545,7 +545,9 @@ AI导航,全网最全AI导航,ChatGPT镜像,AIGC,AIGC网站,AI工具,AI人工智
 A. ChatGPT 和 Bing AI 简介
 ChatGPT是由OpenAI开发的强大语言模型，通过学习大量文本数据，具有出色的语言理解和生成能力。Bing AI是微软的人工智能工具，包括在搜索引擎中使用的先进技术。
 
-![0](https://github.com/jtdh/AI/assets/99425739/80a8881a-7adb-429d-82cb-f1651286d455)
+
+![](https://github.com/jtdh/AI/assets/99425739/d508bdc1-b2f8-49b6-bc3a-fcf2c57703e6)
+
 
 II. 语言理解与生成
 A. ChatGPT的语言理解能力
