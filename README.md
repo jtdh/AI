@@ -16,7 +16,7 @@ AI导航,全网最全AI导航,ChatGPT镜像,AIGC,AIGC网站,AI工具,AI人工智
 
 #### [Perplexity — 智能总结并展示信息源](https://www.perplexity.ai/)
 
-#### [NewBing — Bing版ChatGPT聊天机器人，微软新搜索引擎](https://www.bing.com/new)
+#### [NewBing — Bing版ChatGPT聊天机器人，微软新搜索引擎](https://www.bing.com/chat)
 
 #### [Auto-GPT — 自主实现目标的AI模型，能够生成连续且连贯的文本](https://github.com/Significant-Gravitas/Auto-GPT)
 
