@@ -30,7 +30,7 @@ AI导航,全网最全AI导航,ChatGPT镜像,AIGC,AIGC网站,AI工具,AI人工智
 
 #### [Google Bard — 媲美ChatGPT，最新的谷歌AI对话模型](https://bard.google.com/)
 
-#### [讯飞星火 — 科大AI对话机器人](https://xinghuo.xfyun.cn/
+#### [讯飞星火 — 科大AI对话机器人](https://xinghuo.xfyun.cn/)
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
