@@ -10,7 +10,7 @@
 
 #### [文心一言 — 百度全新知识增强大语言模型！国产聊天机器人](https://yiyan.baidu.com/)
 
-#### [OpenCat — 在苹果手表上用ChatGPT](https://apps.apple.com/us/app/opencat/id6445999201)
+#### [OpenCat — 在苹果手表上用ChatGPT](https://opencat.app/)
 
 #### [Perplexity — 智能总结并展示信息源](https://www.perplexity.ai/)
 
