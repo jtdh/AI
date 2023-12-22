@@ -230,7 +230,7 @@
 
 #### [3DFY AI — AI创建大规模高质量的3D资产](https://3dfy.ai/)
 
-### 平面设计
+### AI平面设计
 
 #### [PLUG AI — AI辅助包装设计！并对包装方案生成分析评估](https://hp.package-ai.jp/)
 
