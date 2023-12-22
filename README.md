@@ -8,7 +8,7 @@ AI导航,全网最全AI导航,ChatGPT镜像,AIGC,AIGC网站,AI工具,AI人工智
 
 #### [ChatGPT — 地表最强AI聊天机器人](https://chat.openai.com/)
 
-#### [Anthropic — Anthropic发布的与ChatGPT竞争的聊天机器人](https://www.anthropic.com/)
+#### [Anthropic Claude  — Anthropic发布的与ChatGPT竞争的聊天机器人](https://www.anthropic.com/)
 
 #### [文心一言 — 百度全新知识增强大语言模型！国产聊天机器人](https://yiyan.baidu.com/)
 
