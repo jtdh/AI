@@ -3,6 +3,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### AI聊天
+&nbsp;
+[简述](https://github.com/jtdh/AI/issues/1)
 
 #### [ChatGPT — 地表最强AI聊天机器人](https://chat.openai.com/)
 
@@ -46,6 +48,8 @@
 
 
 ### AI绘画
+&nbsp;
+[简述](https://github.com/jtdh/AI/issues/2)
 
 #### [Midjourney — 目前最强的AI绘画工具](https://www.midjourney.com/)
 
@@ -53,10 +57,7 @@
 
 #### [文心一格 — 百度出品的AI绘画工具](https://yige.baidu.com/)
 
-
 #### [Civitai — AI艺术共享平台！海量SD开源模型](https://civitai.com/)
-
-
 
 #### [NijiJourney — MJ出品！面向二次元风格，内容细致拿捏专业到位](https://nijijourney.com/zh/)
 
@@ -103,6 +104,8 @@
 
 
 ### AI提示词
+&nbsp;
+[简述](https://github.com/jtdh/AI/issues/3)
 
 #### [Midlibrary — 风格多样！实用超2000+MJ提示词资源](https://midlibrary.io/)
 
@@ -135,6 +138,8 @@
 #### [Catjourney — 超多实用的 MJ Style Tuner风格库](https://catjourney.framer.website/)
 
 ### AI图像处理
+&nbsp;
+[简述](https://github.com/jtdh/AI/issues/4)
 
 #### [Booltool — 多合一AI图像处理网站，快速进行编辑修整](https://booltool.boolv.tech/home)
 
@@ -185,6 +190,8 @@
 #### [Inpaint-web — 生成效果飞快！超智能的AI涂抹工具](https://inpaintweb.lxfater.com/)
 
 ### UI设计
+&nbsp;
+[简述](https://github.com/jtdh/AI/issues/5)
 
 #### [Galileo AI — AI生成可编辑的UI界面](https://www.usegalileo.ai/)
 
@@ -205,6 +212,8 @@
 #### [UI Sketcher — VSCode插件,借助GPT-4V的多模态能力,在插件中画出界面草图,就能生成一个基于ReactNative的UI界面](https://github.com/pAIrprogio/vscode-ui-sketcher)
 
 ### 3D设计
+&nbsp;
+[简述](https://github.com/jtdh/AI/issues/6)
 
 #### [Text to Skybox — 推荐！AI生成360°无缝环境贴图](https://skybox.blockadelabs.com/)
 
@@ -231,6 +240,8 @@
 #### [3DFY AI — AI创建大规模高质量的3D资产](https://3dfy.ai/)
 
 ### AI平面设计
+&nbsp;
+[简述](https://github.com/jtdh/AI/issues/7)
 
 #### [PLUG AI — AI辅助包装设计！并对包装方案生成分析评估](https://hp.package-ai.jp/)
 
@@ -269,6 +280,8 @@
 #### [Everart — 推荐！AI生成电商产品背景图](https://www.everart.ai/)
 
 ### AI智能写作
+&nbsp;
+[简述](https://github.com/jtdh/AI/issues/8)
 
 #### [字语未来 — 用AI创造更有价值的信息，定义新一代智能办公平台](https://getgetai.com/workstation?from=youshe)
 
@@ -307,6 +320,8 @@
 #### [火山写作 — 字节的AI英语写作工具，高效提升英文表达](https://www.writingo.net/home)
 
 ### AI音视频
+&nbsp;
+[简述](https://github.com/jtdh/AI/issues/9)
 
 #### [Runway — 最强的AI视频内容生成工具](https://runwayml.com/)
 
@@ -357,7 +372,8 @@
 #### [Boomy — 推荐！Al音乐生成累计超过1600万首音乐](https://boomy.com/)
 
 ### AI学习
-
+&nbsp;
+[简述](https://github.com/jtdh/AI/issues/10)
 
 #### [Udacity AI学院 — 推荐！Udacity推出的School of AI，从入门到高级](https://www.udacity.com/)
 
@@ -382,6 +398,8 @@
 #### [AI大课堂 — 推荐！科大讯飞推出的AI大学堂](https://www.aidaxue.com/)
 
 ### AI办公
+&nbsp;
+[简述](https://github.com/jtdh/AI/issues/11)
 
 #### [Microsoft 365 Copilot — 暂未开放！内置GPT-4的微软Office](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
 
@@ -408,6 +426,8 @@
 #### [Zapier AI — 赞！Zapier推出的AI自动化集成功能](https://zapier.com/ai)
 
 ### AI翻译
+&nbsp;
+[简述](https://github.com/jtdh/AI/issues/12)
 
 #### [Deepl翻译器 — 集合深度学习、神经网络算等先进技术的新一代AI翻译神器](https://www.deepl.com/translator)
 
@@ -434,6 +454,8 @@
 #### [金山快译 — 金山旗下多场景的翻译服务](https://kuaiyi.wps.cn/txt-translate)
 
 ### AI编程开发
+&nbsp;
+[简述](https://github.com/jtdh/AI/issues/13)
 
 #### [GitHub Copilot — 热门！GitHub AI编程工具](https://github.com/features/copilot)
 
