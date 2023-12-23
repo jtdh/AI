@@ -16,7 +16,7 @@
 
 #### [Perplexity — 智能总结并展示信息源](https://www.perplexity.ai/)
 
-#### [NewBing BINGAI— Bing版ChatGPT聊天机器人，微软新搜索引擎](https://www.bing.com/chat)
+#### [Bing Chat— 微软以ChatGPT/GPT-4搭建的全新AI搜索引擎](https://www.bing.com/chat)
 
 #### [Auto-GPT — 自主实现目标的AI模型，能够生成连续且连贯的文本](https://github.com/Significant-Gravitas/Auto-GPT)
 
